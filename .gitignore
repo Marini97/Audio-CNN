@@ -1,5 +1,13 @@
-# wav files
+# project files
 *.wav
+*.png
+*.h5
+/EMOVO/audio
+/UrbanSound8k/audio
+/EMOVO/images
+/UrbanSound8k/images
+/EMOVO/models
+/UrbanSound8k/models
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
