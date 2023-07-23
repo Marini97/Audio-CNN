@@ -2,6 +2,7 @@
 *.wav
 *.png
 *.h5
+*.DS_Store
 /EMOVO/audio
 /UrbanSound8k/audio
 /EMOVO/images

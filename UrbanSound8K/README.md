@@ -1,4 +1,4 @@
-Download the audio files from the [UrbanSound8K dataset](https://urbansounddataset.weebly.com/urbansound8k.html) and place them in the following folder structure:
+Download the audio files from the [UrbanSound8K dataset](https://urbansounddataset.weebly.com/urbansound8k.html) and create the following folder structure:
 
 ```
 UrbanSound8K

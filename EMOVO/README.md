@@ -1,4 +1,4 @@
-Download the audio files from the [Emovo dataset](https://dagshub.com/kingabzpro/EMOVO) and place them in the following folder structure:
+Download the audio files from the [Emovo dataset](https://dagshub.com/kingabzpro/EMOVO) and create the following folder structure:
 
 ```
 EMOVO
